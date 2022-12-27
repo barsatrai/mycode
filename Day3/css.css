@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+p{color:aqua;
+     font-size: 30px;
+      font-weight: bold;
+       text-decoration: underline;
+        text-decoration-color: green;
+         text-decoration-style: dashed;
+
+}
+h1{
+    color: red;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin: 30px;
+    margin: 30px 10px;
+    margin: 30px 30px 30px 30px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 30px;
+    margin-right: 0;
+    text-align: center;
+    /* background: yellow; */
+    /* background-image: linear-gradient(to right, red,green, purple,blue); */
+    background-image: radial-gradient(red,green);
+}
+
+.box1{
+    width: 400px;
+    height: 500px;
+    background: url("../Day3/Images/istockphoto-186381635-612x612.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}

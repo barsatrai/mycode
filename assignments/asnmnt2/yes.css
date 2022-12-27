@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.box1{
+    width: 200px;
+    height: 600px;
+    background: url("../asnmnt2/pictures/img1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+.box2{
+    width: 220px;
+    height: 200px;
+    background: url("../asnmnt2/pictures/img2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background: url("../asnmnt2/pictures/img3.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background: url("../asnmnt2/pictures/img4.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background: url("../asnmnt2/pictures/img5.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
