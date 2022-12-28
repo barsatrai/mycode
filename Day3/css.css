@@ -32,4 +32,13 @@ h1{
     background: url("../Day3/Images/istockphoto-186381635-612x612.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    float: left;
+}
+.box2{
+    width: 400px;
+    height: 500px;
+    background: url("../Day3/Images/img1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
 }
