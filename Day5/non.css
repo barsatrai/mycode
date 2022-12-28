@@ -43,5 +43,31 @@ nav ul li a{
 }
 span{
     display: inline-block;
-    background-color: yellow;
+    background-color: white;
+    
+}
+.box-container{
+    display: inline-block;
+    background: greenyellow;
+    padding: 15px 30px;
+    text-align: center;
+    
+}
+.box-item{
+    width: 150px;
+    background: white;
+    text-align: center;
+}
+.item-image{
+    overflow: hidden;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+.item-image img{
+    width: 100%;
+}
+.box-item span{
+    display: inline-block;
+    margin-bottom: 15px;
+
 }
